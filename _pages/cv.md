@@ -14,21 +14,10 @@ redirect_from:
 * 2021—2025  就读于广东省广州市 华南师范大学   地图学与地理信息系统
 * 2018—2021  就读于云南省昆明市 云南大学       地图学与地理信息系统
 
-
 工作经历
 ======
 * 2025年8月  云南昆明  某院校
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 研究方向
 ======
 * 时空数据分析与政策模拟
